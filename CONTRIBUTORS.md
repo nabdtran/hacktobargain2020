@@ -7,3 +7,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [theg00s3](https://github.com/theg00se)
+- Place: Melbourne, VIC, Australia
+- Bio: Hobbyist, Tech Nerd, Student
+- GitHub: [theg00s3](https://github.com/theg00se)
