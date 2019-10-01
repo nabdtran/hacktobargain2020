@@ -12,3 +12,8 @@
 - Place: Melbourne, VIC, Australia
 - Bio: Hobbyist, Tech Nerd, Student
 - GitHub: [theg00s3](https://github.com/theg00se)
+
+#### Name: [curacat](https://github.com/curacat)
+- Place: Melbourne, Australia
+- Bio: Dabbler
+- GitHub: [curacat](https://github.com/curacat)
