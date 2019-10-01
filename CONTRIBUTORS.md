@@ -7,3 +7,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [curacat](https://github.com/curacat)
+- Place: Melbourne, Australia
+- Bio: Dabbler
+- GitHub: [curacat](https://github.com/curacat)
