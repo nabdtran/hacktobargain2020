@@ -1,0 +1,5 @@
+Option Explicit
+
+Sub Main()
+    Call MsgBox("Hello World", vbOKOnly, "VBA Sample Code")
+End Sub
