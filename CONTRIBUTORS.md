@@ -24,3 +24,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: [Reynald Nixon](https://github.com/reynaldnixon)
+- Place: Melbourne, Australia
+- Bio: Gamer, Tech Enthusiast
+- GitHub: [reynaldnixon](https://github.com/reynaldnixon)
