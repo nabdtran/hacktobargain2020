@@ -8,7 +8,6 @@
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
 
-
 #### Name: [Hunter]
 - Place: AUS
 - Bio: Reader
@@ -24,3 +23,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: [David M Williams](https://github.com/davidmwilliams)
+- Place: Newcastle, NSW, Australia
+- Bio: Author and consultant
+- GitHub: [davidmwilliams](https://github.com/davidmwilliams)
