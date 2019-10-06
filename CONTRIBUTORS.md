@@ -24,3 +24,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: [Newbie123](https://github.com/Newbie123)
+- Place: Australia
+- Bio: Newbie
+- GitHub: [Newbie123](https://github.com/Newbie123)
