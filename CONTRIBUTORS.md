@@ -24,3 +24,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: [memskez](https://github.com/memskez)
+- Place: Bay of Plenty, New Zealand
+- Bio: Me, dur.
+- GitHub: [memskez](https://github.com/memskez)
