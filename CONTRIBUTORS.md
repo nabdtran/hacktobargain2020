@@ -24,3 +24,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: [nk-hack](https://github.com/nk-hack)
+- Place: Australia
+- Bio: Beginner
+- GitHub: [nk-hack](https://github.com/nk-hack)
