@@ -24,3 +24,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: Darren
+- Place: Australia
+- Bio: Student
+- GitHub: [Darren](https://github.com/darrentrinh)
