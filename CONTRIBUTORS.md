@@ -24,3 +24,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+### Name: [darrenz78](https://github.com/darrenz78)
+- Place: Sydney, Australia
+- Bio: Web developer
+- Github: [darrenz78](https://github.com/darrenz78)
