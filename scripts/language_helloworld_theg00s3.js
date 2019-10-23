@@ -3,4 +3,4 @@
 // AUTHOR: theg00s3
 // GITHUB: https://github.com/theg00s3
 
-console.log('Hello, World!');
+console.log('HelloWorld!');
