@@ -24,3 +24,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: [Ludd](https://github.com/Ludd)
+- Place: Melbourne, Australia
+- Bio: Ingrate
+- GitHub: [ludd](https://github.com/Ludd)
