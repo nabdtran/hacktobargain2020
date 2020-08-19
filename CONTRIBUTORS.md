@@ -24,3 +24,7 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: [HeyPapito](https://github.com/HeyPapito)
+- Place: AUS
+- Bio: Student
+- GitHub: [HeyPapito](https://github.com/HeyPapito)
