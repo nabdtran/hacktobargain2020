@@ -28,3 +28,9 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [Jerry](https://github.com/jywu11)
+- Place: Melbourne, VIC, Australia
+- Bio: Student
+- GitHub: [jywu11](https://github.com/jywu11)
+
