@@ -28,3 +28,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [rgvxsthi](https://github.com/rgvxsthi)
+- Place: Melbourne, AU
+- Bio: Tech tinkerer
+- GitHub: [rgvxsthi](https://github.com/rgvxsthi)
