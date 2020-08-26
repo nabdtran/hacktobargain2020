@@ -28,3 +28,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [red-wolf](https://github.com/red-wolf)
+- Place: Sydney, Australia
+- Bio: Dabbler
+- GitHub: [red-wolf](https://github.com/red-wolf)
