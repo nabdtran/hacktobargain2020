@@ -28,3 +28,9 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+
+#### Name: [WaKkO](https://github.com/veugelenw)
+- Place: AUS
+- Bio: Forker
+- GitHub: [WaKkO](https://github.com/veugelenw)
