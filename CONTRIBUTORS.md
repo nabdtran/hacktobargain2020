@@ -28,3 +28,7 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+- Place: NZ
+- Bio: Software Engineer
+- GitHub: [si3iid](https://github.com/si3iid)
