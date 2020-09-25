@@ -28,3 +28,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [Red Wolf](https://github.com/red-wolf)
+- Place: AUS
+- Bio: Hobbiest
+- GitHub: [Red Wolf](https://github.com/red-wolf)
