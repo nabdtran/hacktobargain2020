@@ -28,3 +28,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [si3iid](https://github.com/si3iid)
+- Place: AUS
+- Bio: Software Dev
+- GitHub: [si3iid](https://github.com/si3iid)
