@@ -28,3 +28,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [Elaine](https://github.com/El6c)
+- Place: AUS
+- Bio: Digital Designer
+- GitHub: [El6c](https://github.com/El6c)
