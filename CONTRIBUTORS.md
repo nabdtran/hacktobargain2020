@@ -8,7 +8,6 @@
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
 
-
 #### Name: [Hunter]
 - Place: AUS
 - Bio: Reader
@@ -28,3 +27,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [zhuntai](https://github.com/zhuntai)
+- Place: AUS
+- Bio: Likes shirts
+- GitHub: [zhuntai](https://github.com/zhuntai)
