@@ -15,8 +15,8 @@
 - GitHub: Hunter
 
 #### Name: [theg00s3](https://github.com/theg00se)
-- Place: Melbourne, VIC, Australia
-- Bio: Hobbyist, Tech Nerd, Student
+- Place: Australia
+- Bio: Hobbyist, Tech Nerd, Uni Student
 - GitHub: [theg00s3](https://github.com/theg00se)
 
 #### Name: [curacat](https://github.com/curacat)
@@ -28,3 +28,4 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
