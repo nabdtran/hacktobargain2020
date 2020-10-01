@@ -28,3 +28,8 @@
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [nix1016](https://github.com/nix1016)
+- Place: AUS
+- Bio: Software Developer
+- GitHub: [nix1016](https://github.com/nix1016)
