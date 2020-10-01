@@ -14,7 +14,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## Getting Started - Easy
+## Gettiaaang Started - Easy
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Navigate to `CONTRIBUTORS.md`
 * Edit the file and insert your short profile following the instructions below, then click on Commit Changes.
