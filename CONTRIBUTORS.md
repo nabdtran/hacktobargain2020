@@ -24,13 +24,18 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
-
 #### Name: [nk-hack](https://github.com/nk-hack)
 - Place: Australia
 - Bio: Beginner
 - GitHub: [nk-hack](https://github.com/nk-hack)
+
 #### Name: [HeyPapito](https://github.com/HeyPapito)
 - Place: AUS
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
+
+#### Name: [zhuntai](https://github.com/zhuntai)
+- Place: AUS
+- Bio: Bargainer
+- GitHub: [zhuntai](https://github.com/zhuntai)
 
