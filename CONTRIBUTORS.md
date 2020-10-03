@@ -42,3 +42,7 @@
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
 
+#### Name: [Hintswen](https://github.com/Hintswen)
+- Place: AUS
+- Bio: Developer
+- GitHub: [Hintswen](https://github.com/Hintswen)
