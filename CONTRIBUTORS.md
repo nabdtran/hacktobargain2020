@@ -47,3 +47,7 @@
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
 
+#### Name: [01vov](https://github.com/01vova)
+- Place: AUS
+- Bio: Dev
+- GitHub: [01vova](https://github.com/01vova)
