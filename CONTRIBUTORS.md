@@ -47,3 +47,8 @@
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
 
+#### Name: [davidmwilliams](https://github.com/davidmwilliams)
+- Place: AUS
+- Bio: International IT author and consultant
+- GitHub: [davidmwilliams](https://github.com/davidmwilliams)
+
