@@ -47,3 +47,7 @@
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
 
+#### Name: [dajackalz](https://github.com/dajackalz)
+- Place: AUS
+- Bio: Student
+- GitHub: [dajackalz](https://github.com/dajackalz)
