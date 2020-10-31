@@ -47,3 +47,8 @@
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
 
+#### Name: [Russ18](https://github.com/Russ18)
+- Place: Sydney, Australia
+- Bio: Student
+- GitHub: [Russ18](https://github.com/Russ18)
+
