@@ -47,3 +47,7 @@
 - Bio: Student
 - GitHub: [HeyPapito](https://github.com/HeyPapito)
 
+#### Name: [Michaelkiddman](https://github.com/michaelkiddman68)
+- Place: AUS
+- Bio: Chicken fryer
+- GitHub: [michaelkiddman68](https://github.com/michaelkiddman68)
