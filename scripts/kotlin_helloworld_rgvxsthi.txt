@@ -1,0 +1,9 @@
+// LANGUAGE: Kotlin
+// AUTHOR: rgvxsthi
+// GITHUB: https://github.com/rgvxsthi
+
+package hello
+ 
+fun main() {
+  println("Hello World")
+}
