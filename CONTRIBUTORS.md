@@ -29,6 +29,11 @@
 - Place: Australia
 - Bio: Beginner
 - GitHub: [nk-hack](https://github.com/nk-hack)
+#### Name: [Sally S](https://github.com/SallyS)
+- Place: AUS
+- Bio: Beginner/learning
+- GitHub: [SallyS](https://github.com/SallyS)
+
 #### Name: [HeyPapito](https://github.com/HeyPapito)
 - Place: AUS
 - Bio: Student
