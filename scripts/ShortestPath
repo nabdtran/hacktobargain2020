@@ -1,0 +1,85 @@
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
+public class ShortestPath {
+
+	public static void main(String[] args) {
+		int[][] grid = { { 1, 0, 0 }, { 1, 0, 0 }, { 1, 9, 1 } };
+
+		BreadthFirstSearch bfs = new BreadthFirstSearch(grid);
+
+		int distance = bfs.findShortestPath();
+
+		System.out.println("Shortest distance: " + distance);
+	}
+}
+
+class BreadthFirstSearch {
+
+	int[][] grid;
+
+	public BreadthFirstSearch(int[][] grid) {
+		this.grid = grid;
+	}
+
+	public int findShortestPath() {
+		Node source = new Node(0, 0, 0);
+		
+		Queue<Node> queue = new LinkedList<Node>();
+
+		queue.add(source);
+
+		while (!queue.isEmpty()) {
+			Node curNode = queue.poll();
+
+			if (grid[curNode.row][curNode.col] == 9) {
+				return curNode.distance;
+			} else {
+				grid[curNode.row][curNode.col] = 0;
+				queue.addAll(getNeighbours(curNode));
+			}
+		}
+
+		return -1;
+	}
+
+	public boolean validPath(int row, int col) {
+		if (row < 0 || row >= grid.length || col < 0 || col >= grid[0].length || grid[row][col] == 0)
+			return false;
+		else {
+			return true;
+			
+		}
+	}
+
+	public List<Node> getNeighbours(Node curNode) {
+		List<Node> neighbours = new LinkedList<Node>();
+
+		if (validPath(curNode.row + 1, curNode.col))
+			neighbours.add(new Node(curNode.row + 1, curNode.col, curNode.distance + 1));
+
+		if (validPath(curNode.row, curNode.col + 1))
+			neighbours.add(new Node(curNode.row, curNode.col + 1, curNode.distance + 1));
+
+		if (validPath(curNode.row - 1, curNode.col))
+			neighbours.add(new Node(curNode.row - 1, curNode.col, curNode.distance + 1));
+
+		if (validPath(curNode.row, curNode.col - 1))
+			neighbours.add(new Node(curNode.row, curNode.col - 1, curNode.distance + 1));
+
+		return neighbours;
+	}
+}
+
+class Node {
+	int row;
+	int col;
+	int distance;
+
+	public Node(int r, int c, int dis) {
+		this.row = r;
+		this.col = c;
+		this.distance = dis;
+	}
+}
